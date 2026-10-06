@@ -1,0 +1,1 @@
+{"name":"devtools-vector-ingest","version":"1.0.0","private":true,"type":"module","scripts":{"start":"tsx src/main.ts","verify:live":"tsx src/verify_live.ts","test":"tsx src/chunk_ingest.test.ts","typecheck":"tsc --noEmit"},"dependencies":{"openai":"^4.0.0","zod":"^3.23.0"},"devDependencies":{"tsx":"^4.0.0","typescript":"^5.0.0"}}
